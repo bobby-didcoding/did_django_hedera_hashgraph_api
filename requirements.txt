@@ -1,0 +1,10 @@
+asgiref==3.3.4
+Cython==0.29.23
+Django==3.2.4
+django-decouple==2.1
+hedera-sdk-py @ https://github.com/wensheng/hedera-sdk-py/releases/download/v2.0.5-beta.9/hedera_sdk_py-2.0.5b9-py3-none-any.whl
+pyjnius==1.3.0
+pytz==2021.1
+six==1.16.0
+sqlparse==0.4.1
+typing-extensions==3.10.0.0
